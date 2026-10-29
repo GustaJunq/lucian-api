@@ -2,7 +2,7 @@
 
 Backend do **Lucian**, o agente de IA da [SynastrIA Networks](https://synastria.dev) — servidor Flask que expõe autenticação, chat com agente, ferramentas (tools), memória persistente, subagentes, sandbox de código, geração de leads e mais.
 
-> Este repositório está sendo disponibilizado como open source após o encerramento do ciclo do Lucian. O desenvolvimento atual da SynastrIA seguiu para o **Uirapuru**, com um backend novo, e modelo construído do zero.
+> Este repositório está sendo disponibilizado como open source após o encerramento do ciclo do Lucian. O desenvolvimento atual da SynastrIA seguiu para o **Uirapuru**, com um backend novo, e modelo self-hosted.
 
 ## Stack
 
